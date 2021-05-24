@@ -1,2 +1,2 @@
 echo "This is my first code"
-My Testing by branches
+My conflict Testing by branches
